@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.MCX.FileVault2</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.MCX.FileVault2</string>
+				<key>PayloadUUID</key>
+				<string>2A9C956B-EBD0-46D8-9679-05FDEE7B33FA</string>
+				<key>PayloadDisplayName</key>
+				<string>FileVault 2</string>
+				<key>PayloadDescription</key>
+				<string>FileVault 2</string>
+				<key>PayloadOrganization</key>
+				<string>Travelling Tech Guy</string>
+					<key>Enable</key>
+					<string>On</string>
+					<key>Defer</key>
+					<false/>
+					<key>UserEntersMissingInfo</key>
+					<false/>
+					<key>UseRecoveryKey</key>
+					<true/>
+					<key>ShowRecoveryKey</key>
+					<true/>
+					<key>OutputPath</key>
+					<string></string>
+					<key>Certificate</key>
+					<string>Base64EncodedCertificateData</string>
+					<key>PayloadCertificateUUID</key>
+					<string>2A9C956B-EBD0-46D8-9679-05FDEE7B33FA</string>
+					<key>Username</key>
+					<string></string>
+					<key>Password</key>
+					<string></string>
+					<key>UseKeychain</key>
+					<false/>
+					<key>DeferDontAskAtUserLogout</key>
+					<false/>
+					<key>DeferForceAtUserLoginMaxBypassAttempts</key>
+					<integer>0</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>FileVault 2 Example by TTG</string>
+		<key>PayloadDisplayName</key>
+		<string>FileVault 2 Example by TTG</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.MCX.FileVault2.example</string>
+		<key>PayloadOrganization</key>
+		<string>Travelling Tech Guy</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>6883329E-6456-4CC2-9191-0281FC1863B4</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadType</key>
+		<string>System</string>
+	</dict>
+</plist>
