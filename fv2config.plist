@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadContent</key>
-		<array>
-			<dict>
+	<array>
+<dict>
 				<key>PayloadType</key>
 				<string>com.apple.MCX.FileVault2</string>
 				<key>PayloadVersion</key>
@@ -46,24 +46,22 @@
 					<key>DeferForceAtUserLoginMaxBypassAttempts</key>
 					<integer>0</integer>
 			</dict>
-		</array>
-		<key>PayloadDescription</key>
-		<string>FileVault 2 Example by TTG</string>
-		<key>PayloadDisplayName</key>
-		<string>FileVault 2 Example by TTG</string>
-		<key>PayloadIdentifier</key>
-		<string>com.apple.MCX.FileVault2.example</string>
-		<key>PayloadOrganization</key>
-		<string>Travelling Tech Guy</string>
-		<key>PayloadType</key>
-		<string>Configuration</string>
-		<key>PayloadUUID</key>
-		<string>6883329E-6456-4CC2-9191-0281FC1863B4</string>
-		<key>PayloadVersion</key>
-		<integer>1</integer>
-		<key>PayloadRemovalDisallowed</key>
-		<true/>
-		<key>PayloadType</key>
-		<string>System</string>
-	</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>FileVault 2 Example by TTG</string>
+	<key>PayloadDisplayName</key>
+	<string>FileVault 2 Example by TTG</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.MCX.FileVault2.example</string>
+	<key>PayloadOrganization</key>
+	<string>Travelling Tech Guy</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>System</string>
+	<key>PayloadUUID</key>
+	<string>6883329E-6456-4CC2-9191-0281FC1863B4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
 </plist>
