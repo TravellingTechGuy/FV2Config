@@ -4,7 +4,7 @@
 <dict>
 	<key>PayloadContent</key>
 	<array>
-<dict>
+			<dict>
 				<key>PayloadType</key>
 				<string>com.apple.MCX.FileVault2</string>
 				<key>PayloadVersion</key>
